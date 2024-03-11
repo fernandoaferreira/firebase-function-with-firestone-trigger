@@ -2,7 +2,7 @@
 
 Aplicação consiste em persistir usuarios em uma rota POST e utilizar a trigger OnCreate do firestone para incrementando o seu numero cadastral sequencial.
 
-Foi utilizado um design de pastas modular com conceitos de DDD para separar as responsabilidades de cada modulo como constrollers, services e repositoris. A ideia é facilitar a escala da aplicação para novos contextos e seus testes.
+Foi utilizado um design de pastas modular com conceitos de DDD para separar as responsabilidades de cada modulo como constrollers, services e repositories. A ideia é facilitar a escala da aplicação para novos contextos e seus testes.
 
 **Para rodar a aplicação:**
 
